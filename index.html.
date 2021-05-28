@@ -11,7 +11,7 @@ padding: 0.3em;caption-side: bottom;}
 caption {padding: 0.3em; color: rgb(140, 240, 162);background: rgb(10, 8, 8); }
 th {background: rgb(245, 242, 102);}
 h1 {font-family: monospace;}
-
+h1
 .Colombia {color: rgba(36, 17, 48, 0.548);font-family: "Helvatica", sans-serif;
 text-align: center; font-style: italic;}
 .Titulos {color:rgb(29, 112, 61);font-family: "H", sans-serif;text-align: center; font-style: italic;}
